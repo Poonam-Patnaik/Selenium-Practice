@@ -1,0 +1,298 @@
+1505573552193	geckodriver	INFO	Listening on 127.0.0.1:59375
+1505573554316	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505573555575	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505573556368	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505573560641	Marionette	INFO	Listening on port 59381
+1505573560671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505573560744	Marionette	INFO	Listening on port 59381
+1505573563101	Marionette	INFO	New connections will no longer be accepted
+1505579830876	geckodriver	INFO	Listening on 127.0.0.1:64526
+1505579832445	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505579834360	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505579834959	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505579840095	Marionette	INFO	Listening on port 64532
+1505579840436	Marionette	INFO	Listening on port 64532
+1505579840621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+"]
+1505580032051	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580032745	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580036631	Marionette	INFO	Listening on port 64846
+1505580036773	Marionette	INFO	Listening on port 64846
+1505580037059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505580166561	geckodriver	INFO	Listening on 127.0.0.1:65061
+1505580168241	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505580169810	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580170456	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580175565	Marionette	INFO	Listening on port 65071
+1505580175598	Marionette	INFO	Listening on port 65071
+1505580175699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+"]
+1505580375749	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580376396	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580380855	Marionette	INFO	Listening on port 65382
+1505580380895	Marionette	INFO	Listening on port 65382
+1505580381081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505580405996	geckodriver	INFO	Listening on 127.0.0.1:65494
+1505580408256	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505580408581	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580409283	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580413389	Marionette	INFO	Listening on port 65501
+1505580413400	Marionette	INFO	Listening on port 65501
+1505580413585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+EGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580716162	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580720020	Marionette	INFO	Listening on port 49549
+1505580720167	Marionette	INFO	Listening on port 49549
+1505580720488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+"]
+1505580767843	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580768578	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580772797	Marionette	INFO	Listening on port 49700
+1505580772808	Marionette	INFO	Listening on port 49700
+1505580772874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505580892686	geckodriver	INFO	Listening on 127.0.0.1:49973
+1505580894840	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505580895138	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580895764	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580899738	Marionette	INFO	Listening on port 49979
+1505580899761	Marionette	INFO	Listening on port 49979
+1505580900159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+EGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505580944308	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505580948478	Marionette	INFO	Listening on port 50143
+1505580948505	Marionette	INFO	Listening on port 50143
+1505580948561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+EGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505581054893	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505581059035	Marionette	INFO	Listening on port 50355
+1505581059132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505581059199	Marionette	INFO	Listening on port 50355
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505581548396	geckodriver	INFO	Listening on 127.0.0.1:50939
+1505581550513	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505581551254	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505581551957	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505581556172	Marionette	INFO	Listening on port 50949
+1505581556189	Marionette	INFO	Listening on port 50949
+1505581556342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1359: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+L_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505581959688	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505581963648	Marionette	INFO	Listening on port 51509
+1505581963659	Marionette	INFO	Listening on port 51509
+1505581963956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505582117323	geckodriver	INFO	Listening on 127.0.0.1:51749
+1505582119608	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505582120009	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582120657	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582124667	Marionette	INFO	Listening on port 51757
+1505582124682	Marionette	INFO	Listening on port 51757
+1505582124904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505582129353	Marionette	INFO	New connections will no longer be accepted
+1505582201166	geckodriver	INFO	Listening on 127.0.0.1:51919
+1505582203262	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505582203818	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582204461	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582208301	Marionette	INFO	Listening on port 51925
+1505582208309	Marionette	INFO	Listening on port 51925
+1505582208596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+"]
+1505582436176	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582436846	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582440730	Marionette	INFO	Listening on port 52269
+1505582440854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505582440963	Marionette	INFO	Listening on port 52269
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+"]
+1505582502051	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582502829	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582507135	Marionette	INFO	Listening on port 52431
+1505582507155	Marionette	INFO	Listening on port 52431
+1505582507560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505582732575	geckodriver	INFO	Listening on 127.0.0.1:52759
+1505582734396	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505582735803	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582736465	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582740821	Marionette	INFO	Listening on port 52773
+1505582740828	Marionette	INFO	Listening on port 52773
+1505582741870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505582973291	geckodriver	INFO	Listening on 127.0.0.1:53230
+1505582975422	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505582975720	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505582976381	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505582980603	Marionette	INFO	Listening on port 53244
+1505582980615	Marionette	INFO	Listening on port 53244
+1505582980740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505634572548	geckodriver	INFO	Listening on 127.0.0.1:55477
+1505634574689	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505634576154	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505634576749	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505634581502	Marionette	INFO	Listening on port 55483
+1505634581624	Marionette	INFO	Listening on port 55483
+1505634582328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505634701477	geckodriver	INFO	Listening on 127.0.0.1:55736
+1505634703548	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505634705050	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505634705652	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505634710048	Marionette	INFO	Listening on port 55750
+1505634710062	Marionette	INFO	Listening on port 55750
+1505634710982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1505635684233	geckodriver	INFO	Listening on 127.0.0.1:56901
+1505635686281	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505635687716	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1505635688358	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Poonit\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1505635692450	Marionette	INFO	Listening on port 56907
+1505635692599	Marionette	INFO	Listening on port 56907
+1505635692630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1359: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
